@@ -10,6 +10,6 @@ Attendre encore 10 secondes avant de le débrancher.
 ## Extended Life
 
 ### ouvrir l'access ssh
-deposer un fichier vide .ssh à la racine du sytème de fichier
+deposer un fichier vide .ssh à la racine du sytème de fichier : partition boot là ou se situe bootcode.bin
 - login : pi
 - pass : rapsberry
