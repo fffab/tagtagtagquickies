@@ -16,3 +16,6 @@ deposer un fichier vide .ssh à la racine du sytème de fichier : partition boot
 
 connexion en ssh sur le prot 22
 changer le mot de pass : passwd
+
+### utiliser python3
+./venv/bin/python manage.py
